@@ -1,0 +1,104 @@
+body
+{
+    background-image: url("file:///Users/sanket/Desktop/developer/website/images/websitecontactbackground.jpeg");
+}
+h1
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(230,230,230);
+}
+.first
+{
+    color:rgb(200,200,200);
+    text-align: center;
+    font-size:32px;
+
+}
+.contact1
+{
+    text-align:center;
+    padding-top:20px;
+  
+
+}
+.facebook
+{
+    padding:5px;
+}
+.insta
+{
+    padding:20px;
+
+}
+.gmail
+{
+    pading:20px;
+
+}
+.google
+{
+    padding:20px;
+    padding-bottom:10px;
+
+}
+.youtube
+{
+    padding:20px;
+}
+.linkedin
+{
+    padding:20px;
+}
+.twitter
+{
+    padding:20px;
+}
+footer
+{
+    background-color: black;
+    color:rgb(170,170,170);
+    text-align: right;
+    padding:30px;
+
+}
+.website
+{
+    text-align: left;
+    padding:10px;
+    font-size: 50px;
+    text-decoration: aliceblue;
+}
+.home
+{
+    padding-left:30;
+
+}
+.videolecture
+{
+    padding-left:200px;
+}
+.contact
+{
+    padding-left:230px;
+}
+.online
+{
+    padding-left:150px;
+}
+a
+{
+    text-decoration: none;
+    color:rgb(170,170,170);
+}
+a:hover
+{
+    color:rgb(255,255,255);
+}
+a:active
+{
+    color:blue;
+}
+a:visited
+{
+    color:rgb(255,255,255);
+}
