@@ -1,0 +1,83 @@
+.header1
+{
+    text-align:center;
+    color:grey;
+    font-family:serif;
+    letter-spacing :4em;
+    margin:5px10px5px10px;
+    padding-left:40px;
+    padding-bottom:80px;
+    opacity: 1;
+}
+body
+{
+    background-image: url("file:///Users/sanket/Desktop/developer/website/images/background.png");
+    opacity: 1;
+  filter: alpha(opacity=10);
+    font-size:20px;
+    text-decoration:none;
+    
+}
+.topnav
+{
+    
+    padding-left:50px;
+}
+.home
+{
+    padding-left:30;
+
+}
+.videolecture
+{
+    padding-left:200px;
+}
+.contact
+{
+    padding-left:230px;
+}
+.online
+{
+    padding-left:150px;
+}
+a
+{
+    text-decoration: none;
+    color:rgb(0,0,0);
+}
+a:hover
+{
+    color:rgb(60,60,60);
+}
+a:active
+{
+    color:blue;
+}
+a:visited
+{
+    color:rgb(100,100,100);
+}
+.s1
+{
+   letter-spacing:0.5em; 
+   word-spacing: 1em;
+   
+
+}
+.headd
+{
+    text-align:center;
+    font-family: fantasy;
+    font-size: 6mm;
+    font-style: italic;
+    text-decoration-line: underline;
+    
+}
+.input
+{
+    text-align:right;
+    overflow: hidden;
+   border:2px;
+    border-radius:3mm;
+    color:black;
+}
